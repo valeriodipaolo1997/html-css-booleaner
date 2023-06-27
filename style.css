@@ -61,7 +61,44 @@ h5 {
 .list {
     font-weight: bold;
     color: rgba(0, 0, 0, 0.822);
-    list-style-type: none;
-    margin-left: 0;
-    padding-left: 0;
+
+}
+
+
+table {
+    height: 100px;
+    
+    
+    
+    
+}
+
+#barra1 {
+    background-color: aqua;
+    
+}
+
+
+.lorem1 {
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.822);
+    
+}
+
+
+.interessi {
+    color: grey;
+    font-size: 20px;
+}
+
+
+.immagini {
+    position: relative;
+}
+
+
+#dolor {
+    position: absolute;
+    top: 0;
+    color: white;
 }
